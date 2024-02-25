@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @mondlink3
+- 👋 Hi, I’m @mondliC
 - 💞️ I’m looking to collaborate on an anything related in web development
 - 📫 How to reach me on instagram @mondli._c
 
