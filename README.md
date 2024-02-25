@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @mondlink3
-- 🌱 I’m currently learning web and game development
 - 💞️ I’m looking to collaborate on an anything related in web development
 - 📫 How to reach me on instagram @mondli._c
 
